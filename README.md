@@ -1,2 +1,2 @@
 # dibs-warp
-Routine to measure weak and shallow interstellar absorption in high-resolution spectra.
+Collection of code to perform line fitting using Gaussian process.
